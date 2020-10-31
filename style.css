@@ -1,7 +1,10 @@
+body{
+    background: url(./Assets/Images/background.jpg)
+}
+
 .container img{
-    width: 300px;
-    height: 250px;
-    float: left;
+    width: 500px;
+    margin: 2em;
 }
 
 .footer{
