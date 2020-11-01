@@ -2,11 +2,6 @@ body{
     background: url(./Assets/Images/background.jpg)
 }
 
-.container img{
-    width: 500px;
-    margin: 2em;
-}
-
 .footer{
     position: absolute;
     bottom: 0;
