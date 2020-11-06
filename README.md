@@ -23,12 +23,12 @@
 
 ### Index
 
-![Index Screenshot](./assets/images/index.png)
+![Index Screenshot](/assets/images/index.png)
 
 ### Contact
 
-![Contact Screenshot](./assets/images/content.png)
+![Contact Screenshot](/assets/images/content.png)
 
 ### Portfolio
 
-![Portfolio Screenshot](./assets/images/portfolio.png)
+![Portfolio Screenshot](/assets/images/portfolio.png)
