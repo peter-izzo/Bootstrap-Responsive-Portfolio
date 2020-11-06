@@ -27,7 +27,7 @@
 
 ### Contact
 
-![Contact Screenshot](/Assets/Images/content.png)
+![Contact Screenshot](/Assets/Images/contact.png)
 
 ### Portfolio
 
