@@ -2,13 +2,13 @@
 
 ## Needs
 
-'''
-Using the Bootstrap CSS Framework create a mobile responsive portfolio containing:
+
+**Using the Bootstrap CSS Framework create a mobile responsive portfolio containing:**
 * A navbar
 * A responsive layout
 * Responsive Images
 * Working links that direct to each additional page
-'''
+
 
 ## Components Included in Portfolio
 
