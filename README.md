@@ -33,6 +33,6 @@
 
 ![Portfolio Screenshot](/Assets/Images/portfolio.png)
 
-##Live Site
+## Live Site
 
 https://peter-izzo.github.io/Bootstrap-Responsive-Portfolio/
